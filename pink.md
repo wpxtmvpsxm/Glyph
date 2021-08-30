@@ -46,5 +46,38 @@
    </details>
 
    ## Pink
+
+  \
+ <img src="https://github.com/wpxtmvpsxm/glyph/blob/main/images/Pink-1.webp" width="384" height="216"/>
+ <img src="https://github.com/wpxtmvpsxm/glyph/blob/main/images/Pink-2.webp" width="384" height="216"/>
+ \
+ <img src="https://github.com/wpxtmvpsxm/glyph/blob/main/images/Pink-3.webp" width="384" height="216"/>
+ <img src="https://github.com/wpxtmvpsxm/glyph/blob/main/images/Pink-4.webp" width="384" height="216"/>
+   <details>
+      <summary>peace-01 spike stand</summary>
+   
+   ![gif](https://github.com/wpxtmvpsxm/glyph/blob/main/images/Pink-1.webp)
+   \
+   Comet's lineup. Jump at the flower in the background, updash at the peak of the jump, and then start holding right during the dash.
+   \
+   ![cue](https://i.imgur.com/Z3A6m7H.png)
+   </details>
+   
+   <details>
+      <summary>peace-03 wallbounce</summary>  
+   
+   \
+     ![gif](https://github.com/wpxtmvpsxm/glyph/blob/main/images/Pink-2.webp)  
    
    
+   Tap jump as short as possible on the transition hyper, immediately hold left, buffer a full height wallkick on the moveblock and win  
+   </details>
+   
+   <details>
+   <summary>peace-08 ultra</summary>  
+   
+   \
+     ![gif](https://github.com/wpxtmvpsxm/glyph/blob/main/images/Pink-3.webp)  
+   
+   Jump as far left as you can before the demohyper so you can do the ultra nice and fast after you jump. Land on the wooden thing and just hold downright to slide
+</details>
