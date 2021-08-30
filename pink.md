@@ -13,7 +13,7 @@
    <details>
       <summary>start-1</summary>
       
-   ![gif](https://github.com/wpxtmvpsxm/glyph/blob/main/images/start-1.webp  
+   ![gif](https://github.com/wpxtmvpsxm/glyph/blob/main/images/start-1.webp) 
    
    Updemo buffered wallbounce gives you the perfect height at the start.  
    
