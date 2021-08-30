@@ -1,5 +1,5 @@
 ## Fair Warning
-Heat contains a bunch of demodashes, including a few that save upwards of 10 seconds. In the most recent update of Glyph two of these demos were made significantly easier, but this checkpoint can definitely still be frustrating. Remember to be patient with yourself but don't hesitate to cut out a strat if it doesn't work for you after you've given it a fair shot. 
+Heat contains a bunch of demodashes, including a few that save upwards of 10 seconds. In the most recent update of Glyph, the two most important demos were made significantly easier, but this checkpoint can definitely still be frustrating. Remember to be patient with yourself but don't hesitate to cut out a strat if it doesn't work for you after you've given it a fair shot. 
 ## Yep, this is Heat.
   \
  <img src="https://github.com/wpxtmvpsxm/glyph/blob/main/images/Heat-1.webp" width="384" height="216"/>
@@ -7,6 +7,7 @@ Heat contains a bunch of demodashes, including a few that save upwards of 10 sec
  <img src="https://github.com/wpxtmvpsxm/glyph/blob/main/images/Heat-3.webp" width="384" height="216"/>
  <img src="https://github.com/wpxtmvpsxm/glyph/blob/main/images/Heat-4.webp" width="384" height="216"/>
  <img src="https://github.com/wpxtmvpsxm/glyph/blob/main/images/Heat-5.webp" width="384" height="216"/>
+ <img src="https://github.com/wpxtmvpsxm/glyph/blob/main/images/Heat-6.webp" width="384" height="216"/>
  
    <details>
    <summary>heat-00-01</summary>
@@ -27,9 +28,9 @@ Heat contains a bunch of demodashes, including a few that save upwards of 10 sec
     </details>
  
    <details>
-   <summary>reflection-b-06</summary>
+   <summary>heat-00-05</summary>
       
-   ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/Heat-3.webp)
+   ![gif](https://github.com/wpxtmvpsxm/glyph/blob/main/images/Heat-3.webp)
    \
    To enter this room, do a wavedash > cb > wavedash again to have consistent speed. You can hold downright until the first row of spinners.
  </details>
@@ -37,7 +38,7 @@ Heat contains a bunch of demodashes, including a few that save upwards of 10 sec
    <details>
    <summary>reflection-b-07</summary>
       
-   ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/Heat-4.webp)
+   ![gif](https://github.com/wpxtmvpsxm/glyph/blob/main/images/Heat-4.webp)
    \
    ![cue](https://cdn.discordapp.com/attachments/293555577991200770/779328098628927499/unknown.png)
    \
@@ -47,9 +48,17 @@ Heat contains a bunch of demodashes, including a few that save upwards of 10 sec
    <details>
    <summary>reflection-b-08</summary>
       
-   ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/Heat-5.webp)
+   ![gif](https://github.com/wpxtmvpsxm/glyph/blob/main/images/Heat-5.webp)
    \
    ![cue](https://cdn.discordapp.com/attachments/293555577991200770/779584071214432256/unknown.png)
    \
    For this demo, wait until Madeline is lined up to the bottom of the giant green crystal. For the last two gaps, you can fastfall and go neutral after each left dash.
+ </details>
+
+  <details>
+   <summary>heat-asasa1</summary>
+      
+   ![gif](https://github.com/wpxtmvpsxm/glyph/blob/main/images/Heat-6.webp)
+   \
+tttt
  </details>
