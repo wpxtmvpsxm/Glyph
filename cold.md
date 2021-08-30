@@ -1,13 +1,11 @@
 ## Cold🥶
-hope you know how to wallboost by now!!
-
-<img src="https://github.com/wpxtmvpsxm/glyph/blob/main/images/Heat-1.webp" width="384" height="216"/>
+  \
+ <img src="https://github.com/wpxtmvpsxm/glyph/blob/main/images/Heat-1.webp" width="384" height="216"/>
  <img src="https://github.com/wpxtmvpsxm/glyph/blob/main/images/Heat-2.webp" width="384" height="216"/>
  <img src="https://github.com/wpxtmvpsxm/glyph/blob/main/images/Heat-3.webp" width="384" height="216"/>
  <img src="https://github.com/wpxtmvpsxm/glyph/blob/main/images/Heat-4.webp" width="384" height="216"/>
  <img src="https://github.com/wpxtmvpsxm/glyph/blob/main/images/Heat-5.webp" width="384" height="216"/>
  <img src="https://github.com/wpxtmvpsxm/glyph/blob/main/images/Heat-6.webp" width="384" height="216"/>
- 
    <details>
    <summary>heat-00-01</summary>
       
