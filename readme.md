@@ -2,11 +2,11 @@
 ![header](https://media.discordapp.net/attachments/881844997140414504/881845035581194270/68747470733a2f2f66342e6263626974732e636f6d2f696d672f61333430363939303734375f31362e6a7067.jpg)
 
 ## Table of Contents
-- [Start/Pink🌸](https://github.com/wpxtmvpsxm/glyph/main/pink.md)
-- [Heat🥵](https://github.com/wpxtmvpsxm/glyph/main/heat.md)
-- [Cold🥶](https://github.com/wpxtmvpsxm/glyph/main/cold.md)
-- [Wheat🌾](https://github.com/wpxtmvpsxm/glyph/main/wheat.md)
-- [Memory/End⛈️](https://github.com/wpxtmvpsxm/glyph/main/memory.md)
+- [Start/Pink🌸](https://github.com/wpxtmvpsxm/glyph/main/blob/pink.md)
+- [Heat🥵](https://github.com/wpxtmvpsxm/glyph/main/blob/heat.md)
+- [Cold🥶](https://github.com/wpxtmvpsxm/glyph/main/blob/cold.md)
+- [Wheat🌾](https://github.com/wpxtmvpsxm/glyph/main/blob/wheat.md)
+- [Memory/End⛈️](https://github.com/wpxtmvpsxm/glyph/main/blob/memory.md)
 
 ## Introduction
 Tips, explanations and cues for some of the more unintuitive strats in Glyph go here. I'm going to be assuming knowledge of basic speedtech. 
