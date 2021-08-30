@@ -81,3 +81,14 @@
    
    Jump as far left as you can before the demohyper so you can do the ultra nice and fast after you jump. Land on the wooden thing and just hold downright to slide
 </details>
+
+   <details>
+   <summary>peace-11 wallbounce</summary>  
+   
+   \
+     ![gif](https://github.com/wpxtmvpsxm/glyph/blob/main/images/Pink-4.webp)  
+   
+   ![cue](https://i.imgur.com/TSweZw1.png)
+   
+There is only one pixel that Madeline can have her feet 'together' like this and still be too far right to get the wallbounce, and missing the wallbounce like that won't kill you. Hold left on the wb and press right soon after you jump for the wb. The further right you are on the block, the later you should press right after wallbouncing.
+</details>
