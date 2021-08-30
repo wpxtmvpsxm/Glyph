@@ -63,7 +63,7 @@ Another interesting use of a wallboost here- do one instead of a wallkick to tri
   <details>
   
   
-   <summary>heat-06</summary>
+   <summary>heat-06 (demo 3)</summary>
       
    ![gif](https://github.com/wpxtmvpsxm/glyph/blob/main/images/Heat-6.webp)
    \
