@@ -56,7 +56,7 @@ Another interesting use of a wallboost here- do one instead of a wallkick to tri
    ![cue](https://i.imgur.com/8dBa0HO.png)
    \
    This demo is worth the time to pause buffer but is relatively minor. Doing a climbjump then a wallboost avoids getting floorsnapped to the falling block when you demo. Go neutral and fastfall after the demo.
-     If you want to do the 'casual strat' [do this with a buffered neutral updemo wallbounce.](https://gfycat.com/QuaintEagerJaeger
+     If you want to do the 'casual strat' [do this with a buffered neutral updemo wallbounce.](https://gfycat.com/QuaintEagerJaeger)
      </details>
 
 
