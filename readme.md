@@ -11,7 +11,9 @@
 ## Introduction
 Tips, explanations and cues for some of the more unintuitive strats in Glyph go here. I'm going to be assuming knowledge of basic speedtech. 
 Shoutouts to Buhbai and Koralreef for their github guides which I used as a reference point to make this one.
-You can always DM me at wpxtmvpsxm#5957 or join the incredibly unofficial Glyph gang [discord server](https://discord.gg/E87T6jhYZ6) if you have any questions, feedback, or to get at the #strat-videos channel.
+You can always DM me at wpxtmvpsxm#5957 or join the incredibly unofficial Glyph gang [discord server](https://discord.gg/E87T6jhYZ6) if you have any questions, feedback, or to get at the #strat-videos channel.  
+
+If you're looking for a more comprehensive set of strats to copy, check out top runs (and my run, of course!) on the [glyph speedrun.com leaderboard](https://www.speedrun.com/glyph_pack#Glyph). If any strat isn't easy to do or understand, ask me, and I'll probably also add it to this guide.
 
 
 ## Wallboosts
