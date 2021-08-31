@@ -22,17 +22,19 @@
    
    ![gif](https://github.com/wpxtmvpsxm/glyph/blob/main/images/Memory-2.webp)
    \
-   Whenever you are doing a wallkick -> updash, replace it with a wallboost -> updash for decent free timesave
-   </details>
+These are comfy strats while still hitting the same cycles as all but the stupidest fast stuff. The only mildly tight thing is the 'cycle skip' gultra, but you don't even need to gultra to make it through- and of course if you mess the cycle up you can freely wait it out. 
+  The end skip is reachable with just a demohyper, though a gultra makes it easier to land cleanly on the block.
+
+</details>
    
    <details>
       <summary>memory-09a</summary>
    
    ![gif](https://github.com/wpxtmvpsxm/glyph/blob/main/images/Memory-3.webp)
    \
-  The green box is the teleport trigger, the red box is the slowdown trigger. Aim to updash at the visual cue (between the lines) but if you updash after the green line you can hold right and lose very little time.
-   \
-   ![cue](https://i.imgur.com/7Nzbq0y.png)
+Don't be afraid to stay on the moveblock for as long as you need to lineup the first wallbounce. Be sure to wallbounce late to get max height everywhere.
+Because stamina is no longer an issue with this strat you can get to and activate the moveblock slightly earlier by buffering right dashes and grabbing it lower down.
+  
    
    </details>
 
@@ -51,9 +53,8 @@ Fullheight hyper, then right demo and instantly hold downright to stay crouched 
    
    \
      ![gif](https://github.com/wpxtmvpsxm/glyph/blob/main/images/Memory-5.webp)  
-   This is more worth than the end version- it's much less costly to miss and still saves 1s+. Get on the block, buffer downdash and then hyper bhop. If you're consistently early, extend the hyper a tiny amount.
-   
-   Tap jump as short as possible on the transition hyper, immediately hold left, buffer a full height wallkick on the moveblock and win  
+   This is more worth than the other (hail mary) version- it's much less costly to miss and still saves 1s+. Get on the block, buffer downdash and then hyper bhop. If you're consistently early, extend the hyper a tiny amount.
+
    </details>
    
    <details>
