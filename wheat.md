@@ -5,7 +5,6 @@
  <img src="https://github.com/wpxtmvpsxm/glyph/blob/main/images/Wheat-3.webp" width="384" height="216"/>
  <img src="https://github.com/wpxtmvpsxm/glyph/blob/main/images/Wheat-4.webp" width="384" height="216"/>
  <img src="https://github.com/wpxtmvpsxm/glyph/blob/main/images/Wheat-5.webp" width="384" height="216"/>
- <img src="https://github.com/wpxtmvpsxm/glyph/blob/main/images/Wheat-6.webp" width="384" height="216"/>
  <img src="https://github.com/wpxtmvpsxm/glyph/blob/main/images/Wheat-7.webp" width="384" height="216"/>
  <img src="https://github.com/wpxtmvpsxm/glyph/blob/main/images/Wheat-8.webp" width="384" height="216"/>
  
@@ -31,50 +30,72 @@ Doing the demohyper upright with a dashjump bind will make the start much easier
     </details>
  
    <details>
-   <summary>fall-08a to </summary>
+   <summary>fall-08a to fall-14</summary>
       
    ![gif](https://github.com/wpxtmvpsxm/glyph/blob/main/images/Wheat-3.webp)
    \
-   ![cue](https://i.imgur.com/Dr7cUnE.png)
+   ![cue](https://i.imgur.com/NXRt0Jm.png)
    \
+The ultra at the start of this gif should be very hard to die to.   
+  For the RCB, stand in front of the tree in the background, do a demohyper and then an upleft demo. You need a bit more height to get it consistently so don't jump on the last frame of your dash for the demohyper.
+In the next room, buffer a right climbjump, making sure to hold jump down and not just tap it (so the buffer goes through) and be ready to upright. 
+You shouldn't expect 100% consistency on this strat but it costs very little to lose. 
+The strat to use if you miss the RCB is this:
+  \
+  ![gif](https://github.com/wpxtmvpsxm/glyph/blob/main/images/Wheat-backupbhop.webp)
   
-Another interesting use of a wallboost here- do one instead of a wallkick to trigger the coin and return to the wall in time to *then* wallkick and wallbounce, saving one dash and skipping using the left wall. Also note the demohyper at the start of the clip- significantly faster than the 'squish'.
+  
 </details>
  
    <details>
-   <summary>heat-00-06 to peace-14 (demo 2)</summary>
+   <summary>fall-15 (first demo)</summary>
      
-   ![gif](https://github.com/wpxtmvpsxm/glyph/blob/main/images/Heat-4.webp)
+   ![gif](https://github.com/wpxtmvpsxm/glyph/blob/main/images/Wheat-4.webp)
    \
-   ![cue](https://i.imgur.com/Y4K07cQ.png)
+   ![cue](https://i.imgur.com/WJTXnc4.png)
    \
-   The first demo is not at the peak of a jump but slightly below. It's very lenient and lines up perfectly from an extended super on death and from a hyper bhop through the screen transition on entry. It doesn't save too much time but it's a "why not" demo.  
-     The second demo saves 9+ seconds. There isn't an easy lineup but the gap is pretty wide. This is worth pause buffering if you can't do it pauseless.
-     Finally, the third demo is the easiest of all. It's as wide as the others and because of the horizontal dashes, you won't be falling at maximum speed, giving you more frames to demo on.   
+   This demo is very worth pausebuffering as it skips an entire room. There is a weird pauseless 5jump setup you can copy from TGH's 10:56 if you are interested, but the pause buffer setup is as follows: 
+  - Jump above the building in the background
+  - Slow-fall and pause buffer until the **second frame** that Maddy's feet touch the building (the red line in the cue)
+  - Buffer demo.
  </details>
  
    <details>
      
-   <summary>peace-16</summary>
+   <summary>fall-15 (second and third demos)</summary>
       
-   ![gif](https://github.com/wpxtmvpsxm/glyph/blob/main/images/Heat-5.webp)
+   ![gif](https://github.com/wpxtmvpsxm/glyph/blob/main/images/Wheat-5.webp)
    \
+The disadvantage of the previous is that you don't set your respawn point for the second half of the room, but luckily there is a demo which is easier than the casual strat with the correct setup, and usually impossible without (yay for subpixels!!).
+  - Dash into the ceiling to bonk your head (this works with either of the two ceilings above you)
+  - fall down (**don't fastfall**) into the pink dash crystal
+  - Buffer an updash as you touch the crystal
+  - At the peak of your dash (don't buffer this), demodash left.
+  
+  If you are not doing the third demo, immediately retry after the room transition. The setup for the third demo is a full height reverse super, holding jump right up until you start pausing.
+    \
    ![cue](https://i.imgur.com/CI2j2qz.png)
-   \
-   This demo is worth the time to pause buffer but is relatively minor. Doing a climbjump then a wallboost avoids getting floorsnapped to the falling block when you demo. Go neutral and fastfall after the demo.
-     If you want to do the 'casual strat' [do this with a buffered neutral updemo wallbounce.](https://gfycat.com/QuaintEagerJaeger
      </details>
 
 
   <details>
   
   
-   <summary>heat-06 (demo 3)</summary>
+   <summary>fall-10a</summary>
       
-   ![gif](https://github.com/wpxtmvpsxm/glyph/blob/main/images/Heat-6.webp)
+   ![gif](https://github.com/wpxtmvpsxm/glyph/blob/main/images/Wheat-6.webp)
    \
-  ![cue](https://i.imgur.com/BsUEeYd.png)  
+Hold up to climb onto/over the block and immediately wavedash. You don't need to extend it because of the double dash. Make sure to jump late on the demohyper to make it to the next block.
+ </details>
+ 
+  <details>
   
-This is the other demo that was made significantly easier in patch 2.3- it's still relatively challenging because you need to climb without activating the moveblock, but it can be 100% consistent with some practice. After hitting the spring, hold right until the place indicated in the image, then buffer a neutral climbjump into a wallkick, then demo.
+  
+   <summary>fall-11a</summary>
+      
+   ![gif](https://github.com/wpxtmvpsxm/glyph/blob/main/images/Wheat-7.webp)
+   \
+
+Aiming the down diags is the most important thing here, give yourself enough room to extend the hyper because you don't have time to readjust. Buffer the dashes for the hypers.
  </details>
  
