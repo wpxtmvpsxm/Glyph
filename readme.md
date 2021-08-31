@@ -11,7 +11,7 @@
 ## Introduction
 Tips, explanations and cues for some of the more unintuitive strats in Glyph go here. I'm going to be assuming knowledge of basic speedtech. 
 Glyph is really fun. You should play it.
-You can always DM me at wpxtmvpsxm#5957 if you have any questions.
+You can always DM me at wpxtmvpsxm#5957 or join the incredibly unofficial Glyph gang [discord server](https://discord.gg/E87T6jhYZ6) if you have any questions or feedback.
 
 ## Wallboosts
 Wallboosts are an uncommon tech in the basegame but because Glyph has disabled neutral jumps as well as the prevalence of vertically falling blocks, 
