@@ -11,7 +11,7 @@
  \
  <img src="https://github.com/wpxtmvpsxm/glyph/blob/main/images/Start-3.webp" width="384" height="216"/>
    <details>
-      <summary>start-1</summary>
+      <summary>crane-01</summary>
       
    ![gif](https://github.com/wpxtmvpsxm/glyph/blob/main/images/start-1.webp) 
    
@@ -25,18 +25,20 @@
    </details>
  
    <details>
-      <summary>start-2 wallboost</summary>
+      <summary>memory-00(wallboosts)</summary>
    
    ![gif](https://github.com/wpxtmvpsxm/glyph/blob/main/images/Start-2.webp)
    \
    Whenever you are doing a wallkick -> updash, replace it with a wallboost -> updash for decent free timesave
+   
+   
    </details>
    
    <details>
-      <summary>start-3 slowdown skip</summary>
+      <summary>memory-00 slowdown skip</summary>
    
    ![gif](https://github.com/wpxtmvpsxm/glyph/blob/main/images/Start-3.webp)
-   \
+   
    ![cue](https://i.imgur.com/SPCWLSZ.png)
    \
   The green box is the teleport trigger, the red box is the slowdown trigger. Aim to updash at the visual cue (between the lines) but if you updash after the green line you can hold right and lose very little time.
@@ -50,7 +52,7 @@
   \
  <img src="https://github.com/wpxtmvpsxm/glyph/blob/main/images/Pink-1.webp" width="384" height="216"/>
  <img src="https://github.com/wpxtmvpsxm/glyph/blob/main/images/Pink-2.webp" width="384" height="216"/>
- \
+ <img src="https://github.com/wpxtmvpsxm/glyph/blob/main/images/pink-lol.webp" width="384" height="216"/>
  <img src="https://github.com/wpxtmvpsxm/glyph/blob/main/images/Pink-3.webp" width="384" height="216"/>
  <img src="https://github.com/wpxtmvpsxm/glyph/blob/main/images/Pink-4.webp" width="384" height="216"/>
    <details>
@@ -71,10 +73,22 @@
    
    
    Tap jump as short as possible on the transition hyper, immediately hold left, buffer a full height wallkick on the moveblock and win  
-   </details>
+   </details>  
    
    <details>
-   <summary>peace-08 ultra</summary>  
+      <summary>peace-04</summary>  
+   
+   ![gif](https://github.com/wpxtmvpsxm/glyph/blob/main/images/pink-lol.webp)  
+   
+   ![cue](https://i.imgur.com/RTmaQhV.png)
+   
+Boss219's strat- this one is tough. Don't fast fall, start the wallbounce at the right-hand red line and jump as late as possible, and aim to climbjump off the block at the left-hand red line.
+   
+   </details>
+   
+   
+   <details>
+   <summary>peace-08</summary>  
    
    \
      ![gif](https://github.com/wpxtmvpsxm/glyph/blob/main/images/Pink-3.webp)  
@@ -83,7 +97,7 @@
 </details>
 
    <details>
-   <summary>peace-11 wallbounce</summary>  
+   <summary>peace-11</summary>  
    
    \
      ![gif](https://github.com/wpxtmvpsxm/glyph/blob/main/images/Pink-4.webp)  
