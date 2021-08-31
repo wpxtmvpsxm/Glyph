@@ -83,7 +83,7 @@ The disadvantage of the previous is that you don't set your respawn point for th
   
    <summary>fall-10a</summary>
       
-   ![gif](https://github.com/wpxtmvpsxm/glyph/blob/main/images/Wheat-6.webp)
+   ![gif](https://github.com/wpxtmvpsxm/glyph/blob/main/images/Wheat-7.webp)
    \
 Hold up to climb onto/over the block and immediately wavedash. You don't need to extend it because of the double dash. Make sure to jump late on the demohyper to make it to the next block.
  </details>
@@ -93,7 +93,7 @@ Hold up to climb onto/over the block and immediately wavedash. You don't need to
   
    <summary>fall-11a</summary>
       
-   ![gif](https://github.com/wpxtmvpsxm/glyph/blob/main/images/Wheat-7.webp)
+   ![gif](https://github.com/wpxtmvpsxm/glyph/blob/main/images/Wheat-8.webp)
    \
 
 Aiming the down diags is the most important thing here, give yourself enough room to extend the hyper because you don't have time to readjust. Buffer the dashes for the hypers.
