@@ -23,7 +23,7 @@
    ![gif](https://github.com/wpxtmvpsxm/glyph/blob/main/images/Memory-2.webp)
    \
 These are comfy strats while still hitting the same cycles as all but the stupidest fast stuff. The only mildly tight thing is the 'cycle skip' gultra, but you don't even need to gultra to make it through- and of course if you mess the cycle up you can freely wait it out. 
-  The end skip is reachable with just a demohyper, though a gultra makes it easier to land cleanly on the block.
+  The end skip is reachable with just a demohyper, though a gultra makes it easier to land cleanly on the block. If you don't land on the block, don't climbjump (hold up to climb onto it instead) then demohyper to the finish.
 
 </details>
    
@@ -76,6 +76,7 @@ Caeyo's strat. You should really only go for this if your run is already dead, b
    ![cue](https://i.imgur.com/R1VHL0S.png)  
    ![cue](https://i.imgur.com/fTGLQC7.png)  
    
-stand at the cue (there are a couple of pixels that work so don't worry too much about the distortion effect), jump, and upleft just below the peak of the jump. The upleft is a 4 frame window but the game is running at 50% speed so it's more lke 8f. Aim for later in the window because dashing too late will just behave as if you didn't do the skip (end the chapter in about 10 seconds), where dashing early can really mess you up (by putting the game in ultra slow motion until you can re-enter the trigger. 
+stand at the cue (there are a couple of pixels that work so don't worry too much about the distortion effect), jump, and upleft just below the peak of the jump. The upleft is a 4 frame window but the game is running at 50% speed so it's more like 8f.   
+  Aim for later in the window because the consequences of dashing too early are *way* worse than dashing too late.  
    If you don't attempt this, you can simply updemo into the transition to save 2s over an updash, but there is no reason not to try the skip imo.
 </details>
