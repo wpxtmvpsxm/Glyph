@@ -1,5 +1,5 @@
 # Memory/End⛈️
-![header](https://i.imgur.com/2QFzeSE.png)
+![header](https://i.imgur.com/.png)
    - [Start](#start)
    - [Pink](#pink)
    
