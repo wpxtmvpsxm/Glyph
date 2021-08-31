@@ -10,8 +10,9 @@
 
 ## Introduction
 Tips, explanations and cues for some of the more unintuitive strats in Glyph go here. I'm going to be assuming knowledge of basic speedtech. 
-Glyph is really fun. You should play it.
-You can always DM me at wpxtmvpsxm#5957 or join the incredibly unofficial Glyph gang [discord server](https://discord.gg/E87T6jhYZ6) if you have any questions or feedback.
+Shoutouts to Buhbai and Koralreef for their github guides which I used as a reference point to make this one.
+You can always DM me at wpxtmvpsxm#5957 or join the incredibly unofficial Glyph gang [discord server](https://discord.gg/E87T6jhYZ6) if you have any questions, feedback, or to get at the #strat-videos channel.
+
 
 ## Wallboosts
 Wallboosts are an uncommon tech in the basegame but because Glyph has disabled neutral jumps as well as the prevalence of vertically falling blocks, 
@@ -20,9 +21,18 @@ A basic explanation of [wallboosts](https://twitter.com/MaddyThorson/status/1238
 and the game will give you a stamina refund and 'convert' your jump into a wallkick. The reason this is important is that a normal wallkick forces Madeline to behave
 as if you're holding away from the wall for a significant amount of time, whereas a wallboost does not have this limitation. So, you can use them to move a smaller distance from the wall,
 or you can press towards the wall to quickly regrab it (and gain a small amount of height).
-The most common use in Glyph is to grab a falling block, wallboost in order to let go of it and make it fall sooner, and then regrab the block to climbjump over it as it falls.
+The most common use in Glyph is to grab a falling block, wallboost in order to let go of it and make it fall sooner, and then regrab the block to climbjump over it as it falls. You can also use them 
 
-## Pause buffered demodashes
+<details>
+  <summary>Video examples of wallboosts</summary>
+  
+![gif](https://github.com/wpxtmvpsxm/glyph/blob/main/images/wallboost.webp)
+  
+![gif](https://github.com/wpxtmvpsxm/glyph/blob/main/images/wallboost%202.webp)
+  
+  </details>
+
+  ## Pause buffered demodashes
 This is not necessary or particularly Glyph-specific, but there are a few demodashes that become trivial when pause-buffered, for minimal timeloss compared to not taking the demo. 
 If you're not familiar with pause buffering, the gist is that you can buffer a pause input out of the menu-unpausing animation, which will advance the game physics 1 frame and repause.
 When you are dealing with 1f demodashes, this is of course invaluable with or without a visual cue.
