@@ -23,7 +23,7 @@ A basic explanation of [wallboosts](https://twitter.com/MaddyThorson/status/1238
 and the game will give you a stamina refund and 'convert' your jump into a wallkick. The reason this is important is that a normal wallkick forces Madeline to behave
 as if you're holding away from the wall for a significant amount of time, whereas a wallboost does not have this limitation. So, you can use them to move a smaller distance from the wall,
 or you can press towards the wall to quickly regrab it (and gain a small amount of height).
-The most common use in Glyph is to grab a falling block, wallboost in order to let go of it and make it fall sooner, and then regrab the block to climbjump over it as it falls. You can also use them 
+The most common use in Glyph is to grab a falling block, wallboost in order to let go of it and make it fall sooner, and then regrab the block to climbjump over it as it falls. You can also use them for staminaless climbing (very slowly) or to get around ledges without neutral jumps.
 
 <details>
   <summary>Video examples of wallboosts</summary>
