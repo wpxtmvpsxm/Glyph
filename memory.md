@@ -1,43 +1,34 @@
 # Memory/End⛈️
-![header](https://i.imgur.com/.png)
-   - [Start](#start)
-   - [Pink](#pink)
-   
-   
- ## Memory 
   \
- <img src="https://github.com/wpxtmvpsxm/glyph/blob/main/images/start-1.webp" width="384" height="216"/>
- <img src="https://github.com/wpxtmvpsxm/glyph/blob/main/images/Start-2.webp" width="384" height="216"/>
- \
- <img src="https://github.com/wpxtmvpsxm/glyph/blob/main/images/Start-3.webp" width="384" height="216"/>
-   <details>
-      <summary>start-1</summary>
-      
-   ![gif](https://github.com/wpxtmvpsxm/glyph/blob/main/images/start-1.webp) 
-   
-   Updemo buffered wallbounce gives you the perfect height at the start.  
-   
-   A neutral super lines up the reverse wavedash so long as you jump pretty late on the wavedash itself. The next fastest easy alternative is to [left dash into right demohyper](https://gfycat.com/FortunateFrighteningIvorygull)
-   
-   
+ <img src="https://github.com/wpxtmvpsxm/glyph/blob/main/images/Memory-1.webp" width="384" height="216"/> 
+ <img src="https://github.com/wpxtmvpsxm/glyph/blob/main/images/Memory-2.webp" width="384" height="216"/>
+ <img src="https://github.com/wpxtmvpsxm/glyph/blob/main/images/Memory-3.webp" width="384" height="216"/>
+ <img src="https://github.com/wpxtmvpsxm/glyph/blob/main/images/Memory-4.webp" width="384" height="216"/>
+ <img src="https://github.com/wpxtmvpsxm/glyph/blob/main/images/Memory-5.webp" width="384" height="216"/>
+ <img src="https://github.com/wpxtmvpsxm/glyph/blob/main/images/Memory-6.webp" width="384" height="216"/>
+ <img src="https://github.com/wpxtmvpsxm/glyph/blob/main/images/Memory-7.webp" width="384" height="216"/>
 
+ 
+   <details>
+      <summary>ch5-fall-12</summary>
+      
+   ![gif](https://github.com/wpxtmvpsxm/glyph/blob/main/images/Memory-1.webp)   
+   Full height jump, upleft, don't buffer the updash, hold left during/after the updash.  
   
    </details>
  
    <details>
-      <summary>start-2 wallboost</summary>
+      <summary>memory-08a</summary>
    
-   ![gif](https://github.com/wpxtmvpsxm/glyph/blob/main/images/Start-2.webp)
+   ![gif](https://github.com/wpxtmvpsxm/glyph/blob/main/images/Memory-2.webp)
    \
    Whenever you are doing a wallkick -> updash, replace it with a wallboost -> updash for decent free timesave
    </details>
    
    <details>
-      <summary>start-3 slowdown skip</summary>
+      <summary>memory-09a</summary>
    
-   ![gif](https://github.com/wpxtmvpsxm/glyph/blob/main/images/Start-3.webp)
-   \
-   ![cue](https://i.imgur.com/SPCWLSZ.png)
+   ![gif](https://github.com/wpxtmvpsxm/glyph/blob/main/images/Memory-3.webp)
    \
   The green box is the teleport trigger, the red box is the slowdown trigger. Aim to updash at the visual cue (between the lines) but if you updash after the green line you can hold right and lose very little time.
    \
@@ -45,50 +36,45 @@
    
    </details>
 
-   ## Pink
-
-  \
- <img src="https://github.com/wpxtmvpsxm/glyph/blob/main/images/Pink-1.webp" width="384" height="216"/>
- <img src="https://github.com/wpxtmvpsxm/glyph/blob/main/images/Pink-2.webp" width="384" height="216"/>
- \
- <img src="https://github.com/wpxtmvpsxm/glyph/blob/main/images/Pink-3.webp" width="384" height="216"/>
- <img src="https://github.com/wpxtmvpsxm/glyph/blob/main/images/Pink-4.webp" width="384" height="216"/>
    <details>
-      <summary>peace-01 spike stand</summary>
+      <summary>memory-10a</summary>
    
-   ![gif](https://github.com/wpxtmvpsxm/glyph/blob/main/images/Pink-1.webp)
+   ![gif](https://github.com/wpxtmvpsxm/glyph/blob/main/images/Memory-4.webp)
    \
-   Comet's lineup. Jump at the flower in the background, updash at the peak of the jump, and then start holding right during the dash.
-   \
-   ![cue](https://i.imgur.com/Z3A6m7H.png)
+   The upleft into the spring is a bit stinky because there isn't a totally consistent way to do it. Wallkick leftdash updash is much more consistent.
+Fullheight hyper, then right demo and instantly hold downright to stay crouched and slide under the lightning. 
+   
    </details>
    
    <details>
-      <summary>peace-03 wallbounce</summary>  
+      <summary>memory-11a</summary>  
    
    \
-     ![gif](https://github.com/wpxtmvpsxm/glyph/blob/main/images/Pink-2.webp)  
-   
+     ![gif](https://github.com/wpxtmvpsxm/glyph/blob/main/images/Memory-5.webp)  
+   This is more worth than the end version- it's much less costly to miss and still saves 1s+. Get on the block, buffer downdash and then hyper bhop. If you're consistently early, extend the hyper a tiny amount.
    
    Tap jump as short as possible on the transition hyper, immediately hold left, buffer a full height wallkick on the moveblock and win  
    </details>
    
    <details>
-   <summary>peace-08 ultra</summary>  
+   <summary>memory-11b ("Hail Mary")</summary>  
    
    \
-     ![gif](https://github.com/wpxtmvpsxm/glyph/blob/main/images/Pink-3.webp)  
+     ![gif](https://github.com/wpxtmvpsxm/glyph/blob/main/images/Memory-6.webp)  
    
-   Jump as far left as you can before the demohyper so you can do the ultra nice and fast after you jump. Land on the wooden thing and just hold downright to slide
+Caeyo's strat. You should really only go for this if your run is already dead, but it's super fun. Do one downdash, wait a tiny bit, and then hyper bhop. You can horizontal cb or upright cb, I find upright easier.
+   
 </details>
 
    <details>
-   <summary>peace-11 wallbounce</summary>  
+   <summary>memory-13 fadeout skip</summary>  
    
    \
-     ![gif](https://github.com/wpxtmvpsxm/glyph/blob/main/images/Pink-4.webp)  
+     ![gif](https://github.com/wpxtmvpsxm/glyph/blob/main/images/Memory-7.webp)  
+   \
+   ![cue](https://i.imgur.com/R1VHL0S.png)  
+   ![cue](https://i.imgur.com/fTGLQC7.png)  
    
-   ![cue](https://i.imgur.com/TSweZw1.png)
-   
-There is only one pixel that Madeline can have her feet 'together' like this and still be too far right to get the wallbounce, and missing the wallbounce like that won't kill you. Hold left on the wb and press right soon after you jump for the wb. The further right you are on the block, the later you should press right after wallbouncing.
+stand at the cue (there are a couple of pixels that work so don't worry too much about the distortion effect), jump, and upleft just below the peak of the jump. The upleft is a 4 frame window but the game is running at 50% speed so it's more lke 8f. Aim for later in the window because dashing too late will just behave as if you didn't do the skip (end the chapter in about 10 seconds), where dashing early can really mess you up (by putting the game in ultra slow motion until you can re-enter the trigger. 
+   If you don't attempt this, you can simply updemo into the transition to save 2s over an updash, but there is no reason not to try the skip imo.
 </details>
