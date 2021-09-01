@@ -13,7 +13,8 @@
    \
 note: cold-14 is better for debug warping   
   
-  Do a tiny wallboost to line up the first wallbounce, otherwise do a wallkick, updash and climbjump. For the second wallbounce, jump as late as possible to get maximum height on the 3rd wallbounce. If you miss it, you can wallboost (like how you would neutral jump) to easily get around the ledge without a dash.
+  Do a tiny wallboost to line up the first wallbounce, otherwise do a wallkick, updash and climbjump. For the second wallbounce, jump as late as possible to get maximum height on the 3rd wallbounce. If you miss it, you can wallboost (like how you would neutral jump) to easily get around the ledge without a dash.  
+  You can retry for the deathwarp as soon as you go through the portal.
  </details>
  
    <details>
@@ -56,6 +57,4 @@ Tap jump for the wavedash and aim to wavedash on the centre of the falling block
    ![gif](https://github.com/wpxtmvpsxm/glyph/blob/main/images/Cold-5.webp)
    \
    Don't buffer jump on the 'spike climbjump' to make it a lot kinder with regards to how long you hold jump for. The wallboost after the wallbounce is nice but non-essential. On death, a demohyper makes bonking at the start much easier.
- 
-     </details>
-
+  </details>
