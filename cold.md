@@ -22,8 +22,6 @@ note: cold-14 is better for debug warping
    ![gif](https://github.com/wpxtmvpsxm/glyph/blob/main/images/Cold-2.webp)  
    \
   ![gif](https://github.com/wpxtmvpsxm/glyph/blob/main/images/Cold-2B.webp)  
-  \
-   ![cue](https://i.imgur.com/ZD85UQ8.png)
    \
   Hopefully the center camera view makes it clear what you should do here. Try not to activate the righthand block if possible. Upleft demo should make this more lenient. 
     </details>
