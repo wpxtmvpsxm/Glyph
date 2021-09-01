@@ -3,9 +3,11 @@ Heat contains a bunch of demodashes, including a few that save upwards of 10 sec
 ## Yep, this is Heat🥵
   \
  <img src="https://github.com/wpxtmvpsxm/glyph/blob/main/images/Heat-1.webp" width="384" height="216"/>
+ <img src="https://github.com/wpxtmvpsxm/glyph/blob/main/images/Heat-8.webp" width="384" height="216"/>
  <img src="https://github.com/wpxtmvpsxm/glyph/blob/main/images/Heat-2.webp" width="384" height="216"/>
  <img src="https://github.com/wpxtmvpsxm/glyph/blob/main/images/Heat-3.webp" width="384" height="216"/>
  <img src="https://github.com/wpxtmvpsxm/glyph/blob/main/images/Heat-4.webp" width="384" height="216"/>
+ <img src="https://github.com/wpxtmvpsxm/glyph/blob/main/images/Heat-7.webp" width="384" height="216"/>
  <img src="https://github.com/wpxtmvpsxm/glyph/blob/main/images/Heat-5.webp" width="384" height="216"/>
  <img src="https://github.com/wpxtmvpsxm/glyph/blob/main/images/Heat-6.webp" width="384" height="216"/>
  
@@ -17,6 +19,15 @@ Heat contains a bunch of demodashes, including a few that save upwards of 10 sec
   A wallkick will cancel the crouch state of an upright demodash and uncrouch you into the spring. Left dash into the spring again so that you hit the top of it which will line you up for the next strat- hold down, left and grab after the updash into the coin and you will easily grab the bottom of the switch block if you didn't updash too late. You can also slowfall straight downward and grab the block the same way, though I can't vouch for that strat's reliability.
  </details>
  
+ <details>
+   <summary>heat-00-02</summary>
+     
+   ![gif](https://github.com/wpxtmvpsxm/glyph/blob/main/images/Heat-8.webp)
+   \
+  Stand on the left of the last block so you can start moving it up sooner, then move right while still holding up. Rarely you can fail to get the upward block boost when you jump. Be sure you're holding up the whole time, but it might not be your fault. If anyone knows why this happens, please tell me.
+  
+ </details>
+ 
    <details>
   <summary>heat-00-03 (demo 1)</summary>
   
@@ -24,7 +35,8 @@ Heat contains a bunch of demodashes, including a few that save upwards of 10 sec
    \
    ![cue](https://i.imgur.com/ZD85UQ8.png)
    \
-   This is probably the biggest timesave in the level. This demo is significantly easier now, but you still need to warp inside the moveblock to complete the strat. Any further left than the image above will successfully warp you inside the block and clip you to the top of it. Practically this means you will need to be further right and then hold left as you pass the spinner which sticks out at you. It is *possible* to fall straight down past the spinner and get the warp, but not very consistent.
+   This is probably the biggest timesave in the level. This demo is significantly easier now, but you still need to warp inside the moveblock to complete the strat. Any further left than the image above will successfully warp you inside the block and clip you to the top of it. Practically this means you will need to be further right and then hold left as you pass the spinner which sticks out at you. It is *possible* to fall straight down past the spinner and get the warp, but not very consistent.  
+  The end skip is just a fast jump+upright to get through the spinners before they spawn in. 
     </details>
  
    <details>
@@ -43,8 +55,21 @@ Another interesting use of a wallboost here- do one instead of a wallkick to tri
    ![cue](https://i.imgur.com/Y4K07cQ.png)
    \
    The first demo is not at the peak of a jump but slightly below. It's very lenient and lines up perfectly from an extended super on death and from a hyper bhop through the screen transition on entry. It doesn't save too much time but it's a "why not" demo.  
-     The second demo saves 9+ seconds. There isn't an easy lineup but the gap is pretty wide. This is worth pause buffering if you can't do it pauseless.
-     Finally, the third demo is the easiest of all. It's as wide as the others and because of the horizontal dashes, you won't be falling at maximum speed, giving you more frames to demo on.   
+     The second demo saves 9+ seconds. There isn't an easy lineup but the gap is pretty wide. This is worth pause buffering if you can't do it pauseless.   
+     Finally, the third demo is the easiest of all. It's as wide as the others and because of the horizontal dashes, you won't be falling at maximum speed, giving you more frames to demo on. If you wait slightly between each dash the demo will line itself up (How long you wait depends on how high up you start from).
+  
+  
+ </details>
+ 
+ 
+ <details>
+   <summary>heat-04</summary>
+     
+   ![gif](https://github.com/wpxtmvpsxm/glyph/blob/main/images/Heat-7.webp)
+   \
+  As long as you get a little bit of coyote you are pretty much guaranteed to make it. You can ultra pretty late and still make it but it's optimal to ultra sooner.
+  
+  
  </details>
  
    <details>
@@ -56,7 +81,8 @@ Another interesting use of a wallboost here- do one instead of a wallkick to tri
    ![cue](https://i.imgur.com/8dBa0HO.png)
    \
    This demo is worth the time to pause buffer but is relatively minor. Doing a climbjump then a wallboost avoids getting floorsnapped to the falling block when you demo. Go neutral and fastfall after the demo. If you miss the window, you can also demo in the gap below this one.  
-     If you want to do the 'casual strat' [do this with a buffered neutral updemo wallbounce.](https://gfycat.com/QuaintEagerJaeger)
+     If you want to do the 'casual strat' [do this with a buffered neutral updemo wallbounce.](https://gfycat.com/QuaintEagerJaeger)  
+  Deathwarp immediately after entering the next room.
      </details>
 
 
