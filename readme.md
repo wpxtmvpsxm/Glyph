@@ -1,5 +1,5 @@
 # Glyph Speedrun strat collection
-![header](https://media.discordapp.net/attachments/881844997140414504/881845035581194270/68747470733a2f2f66342e6263626974732e636f6d2f696d672f61333430363939303734375f31362e6a7067.jpg)
+![header](hhttps://pbs.twimg.com/media/E57vUyAUYAYUHgn?format=jpg&name=medium)
 
 ## Table of Contents
 - [Start/Pink🌸](https://github.com/wpxtmvpsxm/glyph/blob/main/pink.md)
