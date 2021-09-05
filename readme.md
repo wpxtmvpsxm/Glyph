@@ -1,5 +1,5 @@
 # Glyph Speedrun strat collection
-![header](hhttps://pbs.twimg.com/media/E57vUyAUYAYUHgn?format=jpg&name=medium)
+![header](https://cdn.discordapp.com/attachments/823020814294581278/884085251880656926/E57vUyAUYAYUHgn.jpg)
 
 ## Table of Contents
 - [Start/Pink🌸](https://github.com/wpxtmvpsxm/glyph/blob/main/pink.md)
@@ -10,7 +10,7 @@
 
 ## Introduction
 Tips, explanations and cues for some of the more unintuitive strats in Glyph go here. I'm going to be assuming knowledge of basic speedtech. 
-Shoutouts to Buhbai and Koralreef for their github guides which I used as a reference point to make this one.
+Shoutouts to Buhbai and Koralreef for their github guides which I used as a reference point to make this one. Thank you to [@iloli_i8g on twitter](https://twitter.com/iloli_i8g/status/1413830478197452801/photo/1) for permission to use their artwork in the header.
 You can always DM me at wpxtmvpsxm#5957 or join the incredibly unofficial Glyph gang [discord server](https://discord.gg/E87T6jhYZ6) if you have any questions, feedback, or to get at the #strat-videos channel.  
 
 If you're looking for a more comprehensive set of strats to copy, check out top runs (and my run, of course!) on the [glyph speedrun.com leaderboard](https://www.speedrun.com/glyph_pack#Glyph). If any strat isn't easy to do or understand, ask me, and I'll probably also add it to this guide.
