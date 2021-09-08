@@ -73,7 +73,7 @@ Caeyo's strat. You should really only go for this if your run is already dead, b
    \
      ![gif](https://github.com/wpxtmvpsxm/glyph/blob/main/images/endskip-setup.webp)  
    \
-We now have a 14 frame window for this, the setup is as follows:
+14 frame window setup for the end skip, the setup is as follows:
   - dash into the wall or grab it
   - do the inputs for a max height **neutral jump** (won't actually be a neutral but will be a consistent distance)
   - upleft dash and then go neutral
