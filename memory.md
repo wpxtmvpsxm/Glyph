@@ -6,7 +6,7 @@
  <img src="https://github.com/wpxtmvpsxm/glyph/blob/main/images/Memory-4.webp" width="384" height="216"/>
  <img src="https://github.com/wpxtmvpsxm/glyph/blob/main/images/Memory-5.webp" width="384" height="216"/>
  <img src="https://github.com/wpxtmvpsxm/glyph/blob/main/images/Memory-6.webp" width="384" height="216"/>
- <img src="https://github.com/wpxtmvpsxm/glyph/blob/main/images/Memory-7.webp" width="384" height="216"/>
+ <img src="https://github.com/wpxtmvpsxm/glyph/blob/main/images/endskip-setup.webp" width="384" height="216"/>
 
  
    <details>
@@ -71,12 +71,12 @@ Caeyo's strat. You should really only go for this if your run is already dead, b
    <summary>memory-13 fadeout skip</summary>  
    
    \
-     ![gif](https://github.com/wpxtmvpsxm/glyph/blob/main/images/Memory-7.webp)  
+     ![gif](https://github.com/wpxtmvpsxm/glyph/blob/main/images/endskip-setup.webp)  
    \
-   ![cue](https://i.imgur.com/R1VHL0S.png)  
-   ![cue](https://i.imgur.com/fTGLQC7.png)  
-   
-stand at the cue (there are a couple of pixels that work so don't worry too much about the distortion effect), jump, and upleft just below the peak of the jump. The upleft is a 4 frame window but the game is running at 50% speed so it's more like 8f.   
-  Aim for later in the window because the consequences of dashing too early are *way* worse than dashing too late.  
-   If you don't attempt this, you can simply updemo into the transition to save 2s over an updash, but there is no reason not to try the skip imo.
+We now have a 14 frame window for this, the setup is as follows:
+  - dash into the wall or grab it
+  - do the inputs for a max height **neutral jump** (won't actually be a neutral but will be a consistent distance)
+  - upleft dash and then go neutral
+  - jump without holding a direction
+  - upright dash at the peak of your jump (14 frame window)
 </details>
