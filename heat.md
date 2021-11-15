@@ -24,7 +24,7 @@ Heat contains a bunch of demodashes, including a few that save upwards of 10 sec
      
    ![gif](https://github.com/wpxtmvpsxm/glyph/blob/main/images/Heat-8.webp)
    \
-  Stand on the left of the last block so you can start moving it up sooner, then move right while still holding up. Rarely you can fail to get the upward block boost when you jump. Be sure you're holding up the whole time, but it might not be your fault. If anyone knows why this happens, please tell me.
+  Stand on the left of the last block so you can start moving it up sooner, then move right while still holding up. Rarely you can fail to get the upward block boost when you jump. For humans this is essentially RNG- it happens because of how diagonally moving blocks work (the block doesn't move on every frame). It's a 5/17 chance to not get the block boost.
   
  </details>
  
