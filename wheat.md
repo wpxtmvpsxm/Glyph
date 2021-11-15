@@ -72,7 +72,7 @@ The disadvantage of the previous is that you don't set your respawn point for th
   - Buffer an updash as you touch the crystal
   - At the peak of your dash (don't buffer this), demodash left.
   
-  If you are not doing the third demo, immediately retry after the room transition. The setup for the third demo is a full height reverse super, holding jump right up until you start pausing.
+The setup for the third demo is a full height reverse super, holding jump right up until you start pausing. A faster alternative is to fall and then left dash directly to the dash crystal. You should still get a 1f window.
     \
    ![cue](https://i.imgur.com/CI2j2qz.png)
      </details>
