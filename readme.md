@@ -25,6 +25,8 @@ as if you're holding away from the wall for a significant amount of time, wherea
 or you can press towards the wall to quickly regrab it (and gain a small amount of height).
 The most common use in Glyph is to grab a falling block, wallboost in order to let go of it and make it fall sooner, and then regrab the block to climbjump over it as it falls. You can also use them for staminaless climbing (very slowly) or to get around ledges without neutral jumps.
 
+NOTE: In cases where you want a block to fall down and don't need to preserve stamina, you should NOT neutral climbjump. Perform the same inputs as a wallboost but hold towards the wall when you climbjump. This will still cause the block to fall down, but you will move less far out (due to not getting a wallboost) so you can climbjump over the block sooner.
+
 <details>
   <summary>Video examples of wallboosts</summary>
   
