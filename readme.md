@@ -37,7 +37,7 @@ NOTE: In cases where you want a block to fall down and don't need to preserve st
   </details>
 
   ## Pause buffered demodashes
-This is not necessary or particularly Glyph-specific, but there are a few demodashes that become trivial when pause-buffered, for minimal timeloss compared to not taking the demo. 
+This is not necessary or particularly Glyph-specific, but there are a few demodashes that become trivial when pause-buffered, while still being a significant timesave compared to not doing the demodash at all.
 If you're not familiar with pause buffering, the gist is that you can buffer a pause input out of the menu-unpausing animation, which will advance the game physics 1 frame and repause.
 When you are dealing with 1f demodashes, this is of course invaluable with or without a visual cue.
 A useful tip is to bind a Journal key (which makes the pause menu invisible) to your grab button or somewhere else you can comfortably hold while pausing/unpausing the game.
