@@ -82,7 +82,7 @@
    
    ![cue](https://i.imgur.com/RTmaQhV.png)
    
-Boss219's strat- this one is tough. Don't fast fall, start the wallbounce at the right-hand red line and jump as late as possible, and aim to climbjump off the block at the left-hand red line.
+Boss219's strat- this one is tough. Don't fast fall, start the wallbounce at the right-hand red line and full height jump as late as possible, then tap left enough to reach the other red line (right-hand side of the dash crystal). Start holding right + climbjump as late as possible.
    
    </details>
    
